@@ -6,18 +6,18 @@
 </div>
 
 <div class="section">
-    <h2>Funcionalidades</h2>
-    <ul>
-        <li><strong>Gerenciamento de Livros:</strong> Criação, listagem (com paginação), filtragem, atualização e
-            exclusão de livros.</li>
-        <li><strong>Gerenciamento de Autores:</strong> Criação, listagem, atualização e exclusão de autores.</li>
-        <li><strong>Tratamento de Erros:</strong> Mecanismos robustos para captura e resposta a diferentes tipos de
-            erros, incluindo validação e erros de banco de dados.</li>
-        <li><strong>Conexão com Banco de Dados:</strong> Integração com MongoDB através do Mongoose para operações de
-            banco de dados eficientes.</li>
-        <li><strong>Configuração de Ambiente:</strong> Utilização de variáveis de ambiente para configuração flexível da
-            aplicação.</li>
-    </ul>
+<h2>Funcionalidades</h2>
+<ul>
+    <li><strong>Gerenciamento de Livros:</strong> Criação, listagem (com paginação), filtragem, atualização e
+        exclusão de livros.</li>
+    <li><strong>Gerenciamento de Autores:</strong> Criação, listagem, atualização e exclusão de autores.</li>
+    <li><strong>Tratamento de Erros:</strong> Mecanismos robustos para captura e resposta a diferentes tipos de
+        erros, incluindo validação e erros de banco de dados.</li>
+    <li><strong>Conexão com Banco de Dados:</strong> Integração com MongoDB através do Mongoose para operações de
+        banco de dados eficientes.</li>
+    <li><strong>Configuração de Ambiente:</strong> Utilização de variáveis de ambiente para configuração flexível da
+        aplicação.</li>
+</ul>
 </div>
 
 <div class="section">
