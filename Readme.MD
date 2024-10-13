@@ -57,24 +57,24 @@
     <h2>Como Utilizar</h2>
     <p>Após iniciar o servidor, você pode interagir com a API através dos seguintes endpoints:</p>
 
-    <h3>Livros</h3>
-    <ul>
-        <li><strong>Listar Livros:</strong> <code>GET /livros</code></li>
-        <li><strong>Listar Livro por ID:</strong> <code>GET /livros/:id</code></li>
-        <li><strong>Filtrar Livros:</strong> <code>GET /livrosFiltro/busca?query=termo</code></li>
-        <li><strong>Cadastrar Livro:</strong> <code>POST /livros</code></li>
-        <li><strong>Atualizar Livro:</strong> <code>PUT /livros/:id</code></li>
-        <li><strong>Excluir Livro:</strong> <code>DELETE /livros/:id</code></li>
-    </ul>
+<h3>Livros</h3>
+<ul>
+    <li><strong>Listar Livros:</strong> <code>GET /livros</code></li>
+    <li><strong>Listar Livro por ID:</strong> <code>GET /livros/:id</code></li>
+    <li><strong>Filtrar Livros:</strong> <code>GET /livrosFiltro/busca?query=termo</code></li>
+    <li><strong>Cadastrar Livro:</strong> <code>POST /livros</code></li>
+    <li><strong>Atualizar Livro:</strong> <code>PUT /livros/:id</code></li>
+    <li><strong>Excluir Livro:</strong> <code>DELETE /livros/:id</code></li>
+</ul>
 
-    <h3>Autores</h3>
-    <ul>
-        <li><strong>Listar Autores:</strong> <code>GET /autores</code></li>
-        <li><strong>Listar Autor por ID:</strong> <code>GET /autores/:id</code></li>
-        <li><strong>Cadastrar Autor:</strong> <code>POST /autores</code></li>
-        <li><strong>Atualizar Autor:</strong> <code>PUT /autores/:id</code></li>
-        <li><strong>Excluir Autor:</strong> <code>DELETE /autores/:id</code></li>
-    </ul>
+<h3>Autores</h3>
+<ul>
+    <li><strong>Listar Autores:</strong> <code>GET /autores</code></li>
+    <li><strong>Listar Autor por ID:</strong> <code>GET /autores/:id</code></li>
+    <li><strong>Cadastrar Autor:</strong> <code>POST /autores</code></li>
+    <li><strong>Atualizar Autor:</strong> <code>PUT /autores/:id</code></li>
+    <li><strong>Excluir Autor:</strong> <code>DELETE /autores/:id</code></li>
+</ul>
 </div>
 
 <div class="section">
